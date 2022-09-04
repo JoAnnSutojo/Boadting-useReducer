@@ -2,6 +2,8 @@
 
 A boat interface using `useReducer`, developed with React as part of class exercise.
 
+![Screenshot](./src/boating_useReducer.png)
+
 ## Instructions
 Reducer function should be able to do the following actions:
 
