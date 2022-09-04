@@ -1,8 +1,9 @@
-# A boat with useReducer
+# A Boat with useReducer
 
-I want you to create a boat interface using `useReducer`.
-You don't need to make many different components.
-Your reducer function should be able to do the following actions:
+A boat interface using `useReducer`, developed with React as part of class exercise.
+
+## Instructions
+Reducer function should be able to do the following actions:
 
 - start the boat engine
     - has 50% chance to fail
